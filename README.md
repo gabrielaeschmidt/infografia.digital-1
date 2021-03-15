@@ -1,4 +1,3 @@
-# infografia.digital-1
 <!doctype html>
 <html lang="es">
     <head>
@@ -26,7 +25,7 @@
                     
                     <h1 class="mb-3 mt-5 text-center">HERBERT BAYER</h1>
                     
-                    <h2 class="fs-6 mb-5 text-center text-uppercase">Gabriela Echeverria Schmidt</h2>
+                    <h2 class="fs-6 mb-5 text-center text-uppercase"> Por Gabriela Echeverria Schmidt</h2>
                     
                     <p class="lead">Herbert Bayer nacido en 1900 en Haag am Hausruck, Austria, fue un reconocido diseñador gráfico, pintor, fotógrafo y arquitecto. Se destaca su trabajo por la temprana intoroduccion de la fotografia en los años 20 y se llego a establecer en EEUU en 1938.</p>
                     
